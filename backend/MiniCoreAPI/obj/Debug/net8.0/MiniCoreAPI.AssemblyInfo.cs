@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniCoreAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3cd7a6bd59135352fab2b615c2d7f2c49d56d97")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79c2f17831a305c50236609bc86a70b590a94479")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiniCoreAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniCoreAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
